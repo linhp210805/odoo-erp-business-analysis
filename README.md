@@ -1,0 +1,1 @@
+Mục tiêu của dự án là khảo sát, chuẩn hóa quy trình và cấu hình hệ thống Odoo ERP nhằm giải quyết các bài toán quản lý thông tin khách hàng, báo giá, bán hàng và chăm sóc khách hàng (hậu mãi) cho doanh nghiệp kinh doanh xe máy có quy mô lớn.
